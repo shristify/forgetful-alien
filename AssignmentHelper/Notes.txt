@@ -1,0 +1,2 @@
+Set to send, assignments with due dates and random German vocabs. Everyday. Live on Heroku.
+***** Personal information hidden.
