@@ -1,0 +1,360 @@
+//used  this  along  with  message  sender  to  help  learn  common  German  words/poems
+(
+ 1.    das    the   definitive  article;  nominative/accusative  singular  neuter  of  "der" ;  this,  that   demonstrative  pronoun ;  who,  that,  which   relative  pronoun     definitive  article;  demonstrative  pronoun;  relative  pronoun
+2.    ist     he/she/it   is   3rd-person  singular  present  of  "sein"     verb
+3.    du    you   informal;  addressing  one  person     personal  pronoun
+4.    ich    I   not  capitalized  unless  it  is  in  the  beginning  of  a  sentence ;  ego   capitalized  -  Ich     personal  pronoun;  noun
+)
+( 
+5.    nicht    not    adverb
+6.    die    the   definitive  article;  nominative/accusative,  singular  feminine  or  plural  form  of  der ;  that,  which,  who   relative  pronoun ;  this  one,  that  one,  these  ones,  those  ones   demonstrative  pronoun     definitive  article;  demonstrative  pronoun;  relative  pronoun
+7.    es    it   neuter  gender     personal  pronoun
+8.    und    and    conjunction
+)
+( 
+9.    Sie    you   polite  or  formal;  addressing  one  person  or  a  group  of  people     personal  pronoun
+10.    der    the   definite  article;  nominitive  singular  masculine,  genitive/dative  singular  feminine,  genitive  plural ;  who,  that,  which   relative  pronoun,  singular     definitive  article;  relative  pronoun
+11.    was    what   interrogative ;  which   relative     interrogative  pronoun,  relative  pronoun
+12.    wir    we   nominative  plural     personal  pronoun
+  )
+( 
+13.    zu    to,  in,  at,  on,  into,  for   preposition ;  too;  to,  towards;  closed,  shut   adverb     preposition;  adverb
+14.    ein    a,  an   indefinite  article;  masculine  and  neuter  nominative;  neuter  accusative ;  one   number     indefinite  article,  cardinal  number
+15.    er    he,  it   masculine     personal  pronoun
+16.    in    in,  within,  at,  pertaining  to   in  +  dative ;  into   in  +  accusative     preposition
+  )
+( 
+17.    sie    she,  it   feminine ;  they,  you   plural     personal  pronoun
+18.    mir    me,  to  me   dative  singular  of  "ich"     personal  pronoun
+19.    mit    with    preposition
+20.    ja    yes;  really,  definitely;  of  course   adverb ;  a  yes   capitalized  as  a  noun  -  Ja     adverb,  noun
+ )
+( 
+21.    wie    how   adverb ;  like,  as   conjunction ;  how   capitalized  as  a  noun  -  Wie     adverb,  conjunction,  noun
+22.    den    the   definitive  article;  accusative  masculine  singular;  dative  plural  of  "der" ;  this,  that  one   demonstrative  pronoun,  accusative  masculine  singular  of  "der" ;  who,  that,  which   relative  pronoun     definitive  article;  demonstrative  pronoun;  relative  pronoun
+23.    auf    on,  onto,  at    preposition
+24.    mich    me   accusative  singular  of  "ich" ;  myself   reflexive  pronoun     personal  pronoun,  reflextive  pronoun
+ )
+( 
+25.    dass  /  daß    that   "daß"  is  an  obsolete  spelling  of  "dass"  used  prior  to  the  German  spelling  reform  of  1996     conjunction
+26.    so    so,  that;  as;  if    adverb,  conjunction
+27.    hier    here    adverb
+28.    eine    a,  an   feminine  nominative  and  accusative     indefinite  article
+ )
+( 
+29.    wenn    if,  when;  if,  the  ifs   capitalized  as  a  noun  -  Wenn     conjunction,  noun
+30.    hat    to  have   third-person  singular  present  of  "haben";  e.g.  "er/sie/es  hat"     verb
+31.    all    all,  all  the,  every,  everything,  everybody,  everyone    indefinite  pronoun,  adjective
+32.    sind     we/they/you  all   are   1st-  and  3-rd  person  plural  present  of  "sein"     verb
+ )
+( 
+33.    von    from,  of   +  Dative     preposition
+34.    dich    you   accusative  of  du ;  yourself   accusative     personal  pronoun,  reflexive  pronoun
+35.    war     I/he/she/it   was   1st-  and  3-rd  person  singular  preterite  of  "sein"   languagedaily.com    verb
+36.    haben    to  have;  possess;  own;  to  have   auxiliary  verb  forms  the  perfect  and  past  perfect  tense     verb,  auxiliary  verb
+ )
+( 
+37.    für    for   +  Accusative     preposition
+38.    an    to,  on,  at,  by,  about,  against    preposition
+39.    habe    to  have   1st-person  singular  present/subjunctive;  3rd-person  singular  subjunctive  I;  imperative  singular  of  "haben";  e.g.  "ich  habe"     verb
+40.    da    there,  here,  then,  so   adverb ;  since,  as,  given  that   conjunction     adverb,  conjunction
+ )
+( 
+41.    nein    no;  a  no   capitalized  as  a  noun  -  nein     adverb,  noun
+42.    bin     I   am   1st-person  singular  present  of  "sein"     verb
+43.    noch    still,  yet   adverb ;  nor   conjuction     adverb,  conjunction
+44.    dir    you,  to  you   dative  of  "du" ;  yourself,  to  yourself   dative     personal  pronoun,  reflexive  pronoun
+ )
+( 
+45.    uns    us   accusative  and  dative  of  "wir" ;  ourselves   accusative  and  dative     personal  pronoun,  reflexive  pronoun
+46.    sich    oneself,  itself,  himself,  herself,  themselves   3-rd  person  singular  and  plural;  accusative  and  dative     reflexive  pronoun
+47.    nur    only,  merely,  just;  languagedaily  dot  com    adverb
+48.    einen    a,  an   masculine  accusative     indefinite  afticle
+ )
+( 
+49.    kann     I   can,  am  able  to   he/she/it   can   1st-  and  3-rd  person  singular  present  of  "können"     verb
+50.    dem    the   definite  article;  dative  singular  masculine/neuter  of  "der" ;  to  whom,  to  which   relative  pronoun;  dative  singular  masculine/neuter  of  "der"     definitive  article;  relative  pronoun
+51.    auch    also,  too,  as  well    adverb
+52.    schon    already,  just,  yet,  indeed,  surely;  handle  with  care,  spare   imperative  singular,  and  colloquial  1st-person  singular  present  of  "schonen"     adverb,  verb
+ )
+( 
+53.    als    than,  when,  as,  while,  as  if    conjunction
+54.    dann    then,  after  that    adverb
+55.    ihn    him,  it   accusative  of  "er"     personal  pronoun
+56.    mal    times   adverb ;  to  paint   imperative  singular,  and  colloquial  1st-person  singular  present  of  "malen" ;  time   capitalized  as  a  noun  -  Mal     adverb,  verb,  noun
+ )
+( 
+57.    hast     you   have   2nd-person  singular  present  of  the  verb  "haben";  e.g.  "du  hast"     verb
+58.    sein    to  be,  to  have,  to  exist,  there  is  /  it  is;  languagedaily.com    verb
+59.    ihr    you,  you  all   plural,  familiar;  personal  pronoun ;  her,  to  her   dative  of  sie;  personal  pronoun ,  ;  her,  its,  their   possessive  pronoun     personal  pronoun,  possessive  pronoun
+60.    aus    out;  over,  finished,  up   adverb from,  out  of;  of;  for,  because  of   preposition     adverb,  preposition
+ )
+( 
+61.    um    at   time ,  around   +  accusative ;  in  order  to,  so  as  to   conjunction     preposition,  conjunction
+62.    aber    again   adverb ;  but,  though   conjunction     adverb,  conjunction
+63.    meine    mine   feminine  nominative/accusative  singular,  and  nominative/accusative  plural  form  of  "mein" ;  to  think,  to  mean   inflections  of  the  verb  "meinen"     possessive  pronoun,  verb
+64.    Aber    objection   noun     noun
+ )
+( 
+65.    wird     he/she/it   becomes   3rd-person  singular  present  of  "werden"     verb
+66.    doch    but,  though,  however;  yet   conjunction ;  after  all;  really;  yes,  surely   adverb     conjunction,  adverb
+67.    mein    my    possessive  pronoun
+68.    bist     you   are   2nd-person  singular  present  of  "sein"       
+)
+(  
+69.    im    in  the   contraction  of  "in"  +  "dem";  used  with  masculine  or  neuter  nouns  in  the  dative  case     preposition
+70.    keine    none,  nobody,  not  any   pronoun ;  not  a   negative  indefinite  article;  accusative/nominative  feminine  and  plural  forms  of  "kein"     pronoun,  article
+71.    gut    good   adjective ;  well   adverb ;  property,  possessions,  goods   capitalized  as  a  noun  -  Gut     adjective,  adverb,  noun
+72.    oder    or;  isnt'  it,  isn't  that  so    conjunction,  particle
+)
+(  
+73.    weiß    white   adjective ;   I   know,   he/she/it   knows   1st-  and  3rd-person  singular  present  of  "wissen"     adjective,  verb
+74.    jetzt    now;  yet   adverb ;  the  present,  now   capitalized  as  a  noun  -  Jetzt     adverb,  noun
+75.    man    one,  they,  you    indefinite  pronoun
+76.    nach    to;  after;  according  to   preposition    +  dative ;  after,  behind   adverb     preposition,  adverb
+)
+(  
+77.    werden    to  get,  to  become;  will,  to  be  going  to;  to  be  done   forms  the  passive  voice     verb,  auxiliary  verb
+78.    wo    where,  somewhere;  when    adverb,  conjunction
+79.    Oh    oh    interjection
+80.    will     I   want  to,   he/she/it   wants  to   1st-  and  3-rd  person  singular  present  of  "wollen"     verb
+ )
+( 
+81.    also    so,  therefore,  thus   conjunction ;  so,  well   adverb ;  well   interjection     conjunction,  adverb,  interjection
+82.    mehr    more;  no  longer   adverb ;  more   comparative  form  of  "viel"  and  "sehr" ;  increase,  excess   capitalized  as  a  noun  -  Mehr     adverb,  indefinite  pronoun,  noun
+83.    immer    always    adverb
+84.    muss     I   must/have  to,   he/she/it   must,  has  to   1st-  and  3rd-person  singular  present  of  "müssen" a  must   capitalized  as  a  noun  -  das  Muss     verb,  noun
+)
+(  
+85.    warum    why    adverb
+86.    bei    at,  by,  near,  with,  among   +  dative     preposition
+87.    etwas    some,  something,  any   pronoun ;  somewhat,  slightly,  a  little,  a  bit   adverb ;  something   capitalized  as  a  noun  -  Etwas     indefinite  pronoun,  adverb,  noun
+88.    nichts    nothing    indefinite  pronoun
+)
+(  
+89.    bitte    please,  you're  welcome,  excuse  me,  please  do,  go  ahead;  request,  plea   capitalized  as  a  noun  -  die  Bitte ;  to  ask   inflection  of  the  verb  "bitten"     interjection,  noun,  verb
+90.    wieder    again    adverb
+91.    machen    to  make,  do,  prepare;  to  produce;  to  go;  to  put    verb
+92.    diese    this,  these   nominative/accusative  feminine  and  plural  of  "dieser"     demonstrative  pronoun
+93.    vor    before,  in  front  of   preposition ;  ago;  forwards   adverb ;  languagedaily  dot  com    preposition,  adverb
+)
+(  
+94.    können    to  be  able  to,  can;  to  be  allowed  to,  may;  to  know  how  to;  ability,  skill   capitalized  when  noun  -  Können     verb,  auxiliary  verb;  noun
+95.    hab    to  have   1st-person  present,  colloquial;  imperative  singular  of  "haben";  e.g.  "ich  hab"     verb
+96.    zum    to  the   contraction  of  zu  +  dem     preposition
+97.    gehen    to  go,  walk;  to  leave;  to  work;  to  be  in  progress,  last;  to  be  going;  to  approach    verb
+98.    sehr    languagedaily.com;  very    adverb
+)
+( 
+99.    geht     he/she/it   goes,  is  going;   you  all   go,  are  going   3rd-person  singular  present;  2nd-person  plural  present;  imperative  plural  of  "gehen"     verb
+100.    sehen    to  see,  look;  to  take  care  of;  to  view,  watch,  observe;  to  notice    verb
+101.    tun    to  do,  make;  to  put;  doings,  conduct   capitalized  as  a  noun  -  das  Tun     verb,  noun
+102.    Mann    man,  male,  husband    noun
+103.    euch    you,  yourselves   plural  form;  accusative  and  dative  of  "ihr"     personal  pronoun
+)
+( 
+104.    wer    who;  the  person  who;  somebody,  someone    interrogative  pronoun,  relative  pronoun,  indefinite  pronoun
+105.    wirklich    real,  true,  natural    adjective
+106.    ihm    him,  to  him   dative  of  "er" ;  it,  to  it   dative  of  "es"     personal  pronoun
+107.    einem    a,  an   masculine  and  neuter  dative     indefinite  article
+)
+( 
+108.    werde     I   become   1st-person  singular  present;  1st-  and  3rd-person  singular  subjunctive  I;  imperative  singular  of  "werden"     verb,  auxiliary  verb;  noun
+109.    sagen    to  say,  tell;  languagedaily.com    verb
+110.    deine    your   nominative/accusative  feminine  and  plural  of  "dein"     possessive  pronoun
+111.    denn    for,  because,  then,  than   conjunction ;  then   adverb     conjunction,  adverb
+112.    danke    thank  you!,  thanks!;  inflection  of  the  verb  "danken"    interjection,  verb
+113.    andere    other,  different,  next    indefinite  pronoun
+)
+( 
+114.    über    above,  over,  across,  beyond,  about,  on    preposition
+115.    komm    come   1st-person  singular  present;  imperative  singular  of  "kommen"     verb
+116.    einer    a,  an   feminine  genitive  and  dative     indefinite  afticle
+117.    einfach    easy,  simple,  plain;  single,  one-way;  simply,  just    adjective,  adverb
+118.    soll     I/he/she   should   1st-  and  3rd-person  singular  present  of  "sollen" ;  debit,  target   capitalized  as  a  noun  -  die  Soll     verb,  noun
+)
+( 
+119.    müssen    must,  have  to    verb,  auxiliary  verb
+120.    nie    never    adverb
+121.    gibt     he/she/it   gives,  is  giving   3rd-person  singular  present  of  "geben" ;  es  gibt  =  there  is,  there  are    verb
+122.    hey    hi,  hey    interjection
+123.    des    the   genitive  singular  masculine/neuter  of  "der"  and  "das"     definitive  article
+)
+( 
+124.    tut     he/she/it   does,  is  doing;   you  all   do,  are  doing   3rd-person  singular  present,  2nd-person  plural  present,  imperative  plural  of  "tun"     verb
+125.    Leben    life;  to  live   verb,  not  capitalized     noun,  verb
+126.    willst     you   want  to   2nd-person  singular  present  of  "wollen"     verb,  auxiliary  verb
+127.    viel    much,  a  lot    adjective,  indefinite  pronoun
+)
+( 
+128.    los    loose,  not  attached,  rid  of    advective
+129.    Zeit    time,  age;  tense   grammar     noun
+130.    Ihnen    you,  to  you   dative  of  Sie     personal  pronoun
+131.    am    on,  at,  on  the,  at  the    preposition
+132.    würde     I/he/she/it   would  become   1st-  and  3rd-person  singular  subjunctive  II  of  "werden" ;  dignity,  honor   capitalized  as  a  noun  -  die  Würde     verb,  noun
+)
+( 
+133.    hatte    to  have   1st-  and  3rd-person  singular  preterite  of  the  verb  "haben"     verb
+134.    kannst     you   can   2nd-person  singular  present  of  "können"       
+135.    wissen    to  know;  knowledge   capitalized  as  a  noun  -  das  Wissen     verb,  noun
+136.    zurück    back,  backwards    adverb
+)
+( 
+137.    heute    today,  nowadays    adverb
+138.    damit    with  it,  thereby;  so  that,  in  order  that    adverb,  conjunction
+139.    gesagt    said   past  participle  of  "sagen"       
+140.    Ihr    your   politely  or  formally  addressing  one  person     possessive  pronoun
+141.    macht    does,  makes;  make,  do   3rd-and  2nd-person  singular  present;  imperative  plural  of  "machen" ;  power,  might,  potency   capitalized  as  a  noun  -  die  Macht     verb,  noun
+)
+( 
+142.    weißt     you/"du"   know   2nd-person  singular  present  of  "wissen"     verb
+143.    kein    no,  not  a,  not  an;  languagedaily  dot  com    indefinite  pronoun
+144.    wollen    to  want,  to  wish,  to  desire   verb ;  to  want  to  do  smth   auxiliary  verb ;  woolen   adjective     verb,  auxiliary  verb,  adjective
+145.    wurde     I/he/she/it   became   1st-  and  3rd-person  singular  preterite  of  "werden"     verb
+)
+( 
+146.    wollte     I/he/she/it   wanted  to,  would  want  to   1st-  and  3rd-person  singular  preterite/subjunctive  II  of  "wollen"     verb,  auxiliary  verb
+147.    Frau    woman,  wife;  Mrs/Ms    noun
+148.    wäre     I/he/she/it   would  be   1st-  and  3rd-person  singular  subjunctive  II  of  "sein"     verb
+149.    Gott    God,  god,  deity    noun
+150.    Leute    people,  folk
+)
+( 
+151.    meinen            
+152.    dieser    this,  these   masculine  singular ;   also,  feminine  dative/genitive  and  plural  genitive  form  of  "diese"     demonstrative  pronoun
+153.    dein            
+154.    kommt            
+155.    kommen            
+)
+( 
+156.    Na            
+157.    sicher            
+158.    ganz            
+159.    Jetzt            
+160.    könnte     I/he/she/it   could   1st-  and  3-rd  person  singular  subjunctive  II  of  "können"     verb
+)
+( 
+165.    hätte    to  have   1st-  and  3rd-person  singular  subjunctive  II  of  the  verb  "haben"     verb
+169.    ab    from   +  Dative ,  as  of   +Accusative/Dative    preposition ;  off,  away   adverb     preposition,  adverb
+170.    waren     we/they/Sie   were   1st-  and  3rd-person  plural  preterite  of  "sein"     verb
+171.    bis            
+)
+(
+172.    Vielleicht            
+173.    Eine            
+174.    weg            
+175.    seine            
+176.    lassen            
+)
+( 
+Sie  liebten  sich  beide
+Sie  liebten  sich  beide,  doch  keiner
+Wollt  es  dem  andern  gestehn;
+Sie  sahen  sich  an  so  feindlich,
+Und  wollten  vor  Liebe  vergehn.
+Sie  trennten  sich  endlich  und  sahn  sich
+Nur  noch  zuweilen  im  Traum;
+Sie  waren  längst  gestorben,
+Und  wußten  es  selber  kaum.
+ENGLISCHE-
+They  loved  each  other
+They  loved  each  other,  but  neither
+Would  admit  to  the  other  they  could:
+As  enemies,  they  saw  each  other,
+And  almost  died  of  their  love.
+In  the  end  they  parted  and  only
+Saw  each  other  sometimes  in  dreams:
+It  was  long  ago  they  had  died,
+But  they  scarcely  knew  it,  it  seems.     
+)       
+( 
+Nicht  alles,  was  Gold  ist,  funkelt
+Nicht  alles,  was  Gold  ist,  funkelt,
+Nicht  jeder,  der  wandert,  verlorn,
+Das  Alte  wird  nicht  verdunkelt,
+Noch  Wurzeln  der  Tiefe  erfroren.
+Aus  Asche  wird  Feuer  geschlagen,
+Aus  Schatten  geht  Licht  hervor;
+Heil  wird  geborstenes  Schwert,
+Und  König,  der  die  Krone  verlor.
+ENGLISH:
+All  that  is  gold  does  not  glitter
+All  that  is  gold  does  not  glitter
+Not  all  those  who  wander  are  lost
+The  old  that  is  strong  does  not  wither
+Deep  roots  are  not  reached  by  the  frost.
+From  the  ashes  a  fire  shall  be  woken
+A  light  from  the  shadows  shall  spring
+Renewed  be  the  blade  that  was  broken
+The  crownless  again  shall  be  king.            
+)
+(
+185.    schön    beautiful,  lovely;  good,  great;  nice;  fine   adjective ;  well,  beautifully;  nicely;  really   adverb     adjective,  adverb
+186.    sagte     I/he/she/it   said,  told   1st-  and  3rd-person  singular  preterite;  1st-  and  3rd-person  singular  subjunctive  II  of  "sagen"     verb
+187.    Sir            
+188.    sollte            
+189.    wirst     you   become   2nd-person  singular  present  of  "werden"     verb
+) 
+( 
+Es  liegt  der  heiße  Sommer
+Es  liegt  der  heiße  Sommer
+Auf  deinen  Wängelein;
+Es  liegt  der  Winter,  der  kalte,
+In  deinem  Herzchen  klein.
+Das  wird  sich  bei  dir  ändern,
+Du  Vielgeliebte  mein!
+Der  Winter  wird  auf  den  Wangen,
+Der  Sommer  im  Herzen  sein.
+English-
+There  lies  the  heat  of  summer
+There  lies  the  heat  of  summer
+On  your  cheek’s  lovely  art:
+There  lies  the  cold  of  winter
+Within  your  little  heart.
+That  will  change,  beloved,
+The  end  not  as  the  start!
+Winter  on  your  cheek  then,
+Summer  in  your  heart.        
+)
+( 
+197.    ihre    hers,  its,  theirs    possessive  pronoun
+198.    Mutter            
+199.    reden            
+200.    dachte      
+)
+(
+Schicke  mir  ein  Blatt
+Schicke  mir  ein  Blatt,  doch  von  einem  Strauche
+Der  nicht  näher  als  eine  halbe  Stunde
+Von  deinem  Haus  wächst,  dann
+Mußt  du  gehen  und  wirst  stark,  und  ich
+bedanke  mich  für  das  hübsche  Blatt.
+ENGLISH:
+Send  me  a  leaf
+Send  me  a  leaf,  but  from  a  bush
+That  grows  at  least  one  half  hour
+Away  from  your  house,  then
+You  must  go  and  will  be  strong,  and  I
+Thank  you  for  the  pretty  leaf.
+)
+(
+Der  du  von  dem  Himmel  bist
+Der  du  von  dem  Himmel  bist,
+Alles  Leid  und  Schmerzen  stillest,
+Den,  der  doppelt  elend  ist,
+Doppelt  mit  Erquickung  füllest;
+Ach,  ich  bin  des  Treibens  müde!
+Was  soll  all  der  Schmerz  und  Lust?
+Süßer  Friede,
+Komm,  ach  komm  in  meine  Brust!
+English:
+Wanderer's  Nightsong  I
+Thou  that  from  the  heavens  art,
+Every  pain  and  sorrow  stillest,
+And  the  doubly  wretched  heart
+Doubly  with  refreshment  fillest,
+I  am  weary  with  contending!
+Why  this  pain  and  desire?
+Peace  descending
+Come  ah,  come  into  my  breast!
+) 
