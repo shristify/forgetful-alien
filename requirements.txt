@@ -1,0 +1,7 @@
+numpy==1.19.2
+opencv-python==4.4.0.44
+pytesseract==0.3.6
+schedule==0.6.0
+selenium==3.141.0
+twilio==6.45.4
+webdriver-manager==3.2.2
